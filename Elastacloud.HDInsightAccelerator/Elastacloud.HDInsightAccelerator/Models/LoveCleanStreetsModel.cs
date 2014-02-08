@@ -36,6 +36,7 @@ namespace Elastacloud.HDInsightAccelerator.Models
         public static LoveCleanStreetsModel Parse(string inputLine)
         {
             var splits = SplitCsv(inputLine);
+            //var splits = inputLine.Split(',');
 
             if (splits.Count() > 16)
                 return null;

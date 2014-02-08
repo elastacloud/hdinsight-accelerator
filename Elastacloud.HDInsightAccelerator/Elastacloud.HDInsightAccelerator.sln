@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastacloud.HDInsightAccele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastacloud.HDInsightAccelerator.Tests", "Elastacloud.HDInsightAccelerator.Tests\Elastacloud.HDInsightAccelerator.Tests.csproj", "{4EBAA5BB-2161-4115-91D0-B32A40A1E79A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastacloud.Bootstrap", "Elastacloud.Bootstrap\Elastacloud.Bootstrap.csproj", "{3814A3B4-18DF-4E3A-B86E-3BCF25775F72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{4EBAA5BB-2161-4115-91D0-B32A40A1E79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EBAA5BB-2161-4115-91D0-B32A40A1E79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EBAA5BB-2161-4115-91D0-B32A40A1E79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3814A3B4-18DF-4E3A-B86E-3BCF25775F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3814A3B4-18DF-4E3A-B86E-3BCF25775F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3814A3B4-18DF-4E3A-B86E-3BCF25775F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3814A3B4-18DF-4E3A-B86E-3BCF25775F72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
