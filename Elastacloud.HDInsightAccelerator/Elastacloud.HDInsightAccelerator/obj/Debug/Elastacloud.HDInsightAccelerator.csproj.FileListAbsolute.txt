@@ -1,0 +1,6 @@
+Z:\src\hdinsight-accelerator\Elastacloud.HDInsightAccelerator\Elastacloud.HDInsightAccelerator\bin\Debug\Elastacloud.HDInsightAccelerator.exe.config
+Z:\src\hdinsight-accelerator\Elastacloud.HDInsightAccelerator\Elastacloud.HDInsightAccelerator\bin\Debug\Elastacloud.HDInsightAccelerator.exe
+Z:\src\hdinsight-accelerator\Elastacloud.HDInsightAccelerator\Elastacloud.HDInsightAccelerator\bin\Debug\Elastacloud.HDInsightAccelerator.pdb
+Z:\src\hdinsight-accelerator\Elastacloud.HDInsightAccelerator\Elastacloud.HDInsightAccelerator\obj\Debug\Elastacloud.HDInsightAccelerator.csprojResolveAssemblyReference.cache
+Z:\src\hdinsight-accelerator\Elastacloud.HDInsightAccelerator\Elastacloud.HDInsightAccelerator\obj\Debug\Elastacloud.HDInsightAccelerator.exe
+Z:\src\hdinsight-accelerator\Elastacloud.HDInsightAccelerator\Elastacloud.HDInsightAccelerator\obj\Debug\Elastacloud.HDInsightAccelerator.pdb
